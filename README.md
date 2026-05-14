@@ -173,6 +173,6 @@ If you like this project, consider giving it a ⭐ on GitHub!
 # 👩‍💻 Developed By
 
 **Srishti S Rao**
-B.Tech – Electronics and Computer Science Engineering (AI/ML Specialization)
-Christ University(Deemed to be university)
-Bengaluru, India
+**B.Tech – Electronics and Computer Science Engineering (AI/ML Specialization)**
+**Christ University(Deemed to be university)**
+**Bengaluru, India**
