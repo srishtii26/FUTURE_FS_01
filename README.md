@@ -91,13 +91,19 @@ This project was created as a real-world professional portfolio rather than just
 ---
 
 # 📸 Screenshots
+<img width="960" height="540" alt="Screenshot 2026-05-14 151109" src="https://github.com/user-attachments/assets/ed427d06-c21e-4cef-b49f-9d0ab2eeffb6" />
 
-<img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/6b0ff373-1f47-4c6a-a291-3a1ed5e64416" />
-<img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/c548ccf1-2a65-4bab-92aa-e38f725dccbb" />
-<img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/c0f08171-8216-4308-8437-3646baa3a737" />
-<img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/58c3c986-963d-4eb7-bcbd-bc9cefa6843e" />
-<img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/45620448-fb08-4942-99c5-198c7262cdfc" />
+<img width="960" height="540" alt="Screenshot 2026-05-14 151118" src="https://github.com/user-attachments/assets/6c7b1724-ff7a-4e43-a889-3257a9f84726" />
 
+<img width="960" height="540" alt="Screenshot 2026-05-14 151131" src="https://github.com/user-attachments/assets/2b0d0e73-b868-40f8-9310-acd9fcafac1d" />
+
+<img width="960" height="540" alt="Screenshot 2026-05-14 151138" src="https://github.com/user-attachments/assets/704dc51a-45ca-4cdf-9230-0c6936b5cfa5" />
+
+<img width="960" height="540" alt="Screenshot 2026-05-14 151201" src="https://github.com/user-attachments/assets/931bdc96-2987-4fa9-b7a2-972ffb5d1b00" />
+
+<img width="960" height="540" alt="Screenshot 2026-05-14 151212" src="https://github.com/user-attachments/assets/e8a15808-239f-439d-bea4-262c9d489370" />
+
+<img width="960" height="540" alt="Screenshot 2026-05-14 151245" src="https://github.com/user-attachments/assets/eec94f15-9de9-4935-bb09-94d3e554273f" />
 
 # 🌐 Deployment
 
